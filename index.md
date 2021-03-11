@@ -1,6 +1,7 @@
 ## Shiyi(Winnie) Xia
-Ph.D Student at the Department of Government, University of Essex
-Shiyi.xia@essex.ac.uk
+Ph.D Student at the Department of Government, University of Essex \\
+Shiyi.xia@essex.ac.uk \\
+[Go to my Twitter](https://twitter.com/home)
 
 ### Markdown
 
