@@ -21,8 +21,7 @@ Here is a copy of my [CV]() which contains detailed information on my research i
 - Xia.S.(2018). The Belt and Road Initiative, and Marshall Plan: A Comparative Perspective._China Market_.(2):106-107.
 
 ## Media
-- Xia.S.(2017). Social Responsibility as a Diplomat._Zhongxin Qingnian_.(1):76-77.
-
+- Xia.S.(2017). Social Responsibility as a Diplomat. _Zhongxin Qingnian_.(1):76-77.
 
 # Data 
 The Soft and Hard Targets in Protest Violence
