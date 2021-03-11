@@ -1,11 +1,8 @@
 ## Shiyi(Winnie) Xia
 Ph.D Student at the Department of Government, University of Essex \
 Shiyi.xia@essex.ac.uk \
-[](https://twitter.com/home)
 
-### Markdown
-
-I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts, protest violence. Spefically,. \
+I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts, protest violence. I am interested in quantitative research methods, spatial econometrics, and also data science.  
 
 I am currently working on my PhD thesis under the tutelage of [Professor Kristian Gledistch](https://scholar.google.co.uk/citations?hl=en&user=1BbBGWAAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Sara Polo](https://scholar.google.co.uk/citations?hl=en&user=Awc_N94AAAAJ).
 
@@ -15,10 +12,10 @@ Click here for a copy of my CV (Updated February 2021)
 
 # Research
 ## Working papers
-- Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. \
-- Xia,S.(2021). Spatial Diffusion of Democratic Protests
+- Xia,S.(2021). _State Repressive Reaction and Protest Violence Target Selection_. \
+- Xia,S.(2021). _Spatial Diffusion of Democratic Protests_.
 ### Work in progress
-- Xia.S.(2021). The Logic of Protest Violence Target Selection\
+- Xia.S.(2021). _The Logic of Protest Violence Target Selection_\
 
 
 **Bold** and _Italic_ and `Code` text
