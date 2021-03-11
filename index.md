@@ -1,21 +1,19 @@
 ## Shiyi(Winnie) Xia
 Ph.D Student at the Department of Government, University of Essex \\
 Shiyi.xia@essex.ac.uk \\
-[Go to my Twitter](https://twitter.com/home)
+[](https://twitter.com/home)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). 
 
-```markdown
-Syntax highlighted code block
+# Research
+## Working papers
+- Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. \\
+- Xia,S.(2021). Spatial Diffusion of Democratic Protests
+### Work in progress
+- Xia.S.(2021). The Logic of Protest Violence Target Selection\\
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
