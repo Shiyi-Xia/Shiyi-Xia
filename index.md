@@ -12,10 +12,10 @@ Click here for a copy of my CV (Updated February 2021)
 
 # Research
 ## Working papers
-- Xia,S.(2021). _State Repressive Reaction and Protest Violence Target Selection_. \
+- Xia,S.(2021). _State Repressive Reaction and Protest Violence Target Selection_. 
 - Xia,S.(2021). _Spatial Diffusion of Democratic Protests_.
 ### Work in progress
-- Xia.S.(2021). _The Logic of Protest Violence Target Selection_\
+- Xia.S.(2021). _The Logic of Protest Violence Target Selection_.
 
 # Data 
 The Soft and Hard Targets in Protest Violence
