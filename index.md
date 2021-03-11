@@ -1,6 +1,6 @@
 ## Shiyi(Winnie) Xia
 Ph.D Student at the Department of Government, University of Essex \
-Shiyi.xia@essex.ac.uk \
+Shiyi.xia@essex.ac.uk 
 
 I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts, protest violence. I am interested in quantitative research methods, spatial econometrics, and also data science.  
 
