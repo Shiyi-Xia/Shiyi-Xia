@@ -32,7 +32,7 @@ Favourite quotes:
 
 - RA for [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Uptake of Public Health Practices For Prevention of COVID 19 among Refugees, Pastoral Communities, Truck Drivers and Slum Dwellers in Uganda. Jun, 2021 -
 
-- Editorial Board Member at *International Public Policy Review*, UCL. [Sep, 2019 - Sep, 2020](International Public Policy Review)
+- Editorial Board Member at *International Public Policy Review*, UCL. [Sep, 2019 - Sep, 2020](https://www.ucl.ac.uk/global-governance/news/2019/sep/latest-issue-ippr-journal-2019-now-out)
 
 - Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2018 - August 2019
 
