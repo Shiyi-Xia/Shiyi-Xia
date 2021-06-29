@@ -10,8 +10,7 @@ I am currently working on my PhD thesis under the tutelage of [Professor Kristia
 I received a Master's degree in Security Studies at UCL, a Master's degree in Ethnicity and Multiculturalism from Univeristy of Bristol. I worked as a strategy associate at the Diplomatic Protocol Service Center, Ministry of Foreign Affairs in Beijing between 2016 and 2018. 
 
 Favourite quotes:
-> All models are wrong, but some are useful.\\
-> Discovering the unexpected is more important than confirming the known.
+> All models are wrong, but some are useful.
 
 # Research
 ## Working papers
@@ -40,5 +39,5 @@ The Soft and Hard Targets in Protest Violence
 
 # Something Non-academic about Me 🤔
 I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \\
-You can say that I am good at 🧗‍♀️🎤🏹🥊🏂, but don't ask too much!
+You can say that I am good at 🧗‍♀️🎤🏹🥊🏂.
 
