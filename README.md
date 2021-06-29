@@ -12,10 +12,10 @@ I received a Master's degree in Security Studies at UCL, a Master's degree in Et
 # Research
 ## Working papers
 - Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. 
-- Xia,S.(2021). Spatial Diffusion of Democratic Protests.
+- Xia.S.(2021). The Logic of Protest Violence Target Selection.
 
 ## Work in progress
-- Xia.S.(2021). The Logic of Protest Violence Target Selection.
+- Xia,S.(2021). Spatial Diffusion of Democratic Protests.
 
 ## Publication
 - Xia.S.(2018). The Belt and Road Initiative, and Marshall Plan: A Comparative Perspective._China Market_.(2):106-107.
@@ -28,7 +28,13 @@ I received a Master's degree in Security Studies at UCL, a Master's degree in Et
 
 - RA for [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Uptake of Public Health Practices For Prevention of COVID 19 among Refugees, Pastoral Communities, Truck Drivers and Slum Dwellers in Uganda. Jun, 2021 -
 
+# Teaching 
+- Teaching Assistant. *Introduction to Quantitative Methods in R* at Essex Data Science Summer School
+
 # Data 
 The Soft and Hard Targets in Protest Violence
 
-# Something about Me 🤔
+# Something Non-academic about Me 🤔
+I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹.
+You can say that I am good at 🧗‍♀️🎤🏹🥊🏂, but don't ask too much!
+
