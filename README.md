@@ -9,6 +9,10 @@ I am currently working on my PhD thesis under the tutelage of [Professor Kristia
 
 I received a Master's degree in Security Studies at UCL, a Master's degree in Ethnicity and Multiculturalism from Univeristy of Bristol. I worked as a strategy associate at the Diplomatic Protocol Service Center, Ministry of Foreign Affairs in Beijing between 2016 and 2018. 
 
+Favourite quote:
+As George Box said:
+> All models are wrong, but some are usefu
+
 # Research
 ## Working papers
 - Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. 
