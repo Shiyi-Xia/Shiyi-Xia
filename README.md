@@ -35,6 +35,6 @@ I received a Master's degree in Security Studies at UCL, a Master's degree in Et
 The Soft and Hard Targets in Protest Violence
 
 # Something Non-academic about Me 🤔
-I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹.
+I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \\
 You can say that I am good at 🧗‍♀️🎤🏹🥊🏂, but don't ask too much!
 
