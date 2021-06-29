@@ -34,7 +34,7 @@ Favourite quotes:
 
 - Editorial Board Member at *International Public Policy Review*, UCL. [Sep, 2019 - Sep, 2020](International Public Policy Review)
 
--Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2018 - August 2019
+- Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2018 - August 2019
 
 # Teaching 
 - Teaching Assistant. *Introduction to Quantitative Methods in R* at Essex Data Science Summer School
