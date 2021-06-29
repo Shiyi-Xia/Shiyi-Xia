@@ -38,6 +38,6 @@ Favourite quotes:
 The Soft and Hard Targets in Protest Violence
 
 # Something Non-academic about Me 🤔
-I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \\
+I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \
 You can say that I am good at 🧗‍♀️🎤🏹🥊🏂.
 
