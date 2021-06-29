@@ -9,8 +9,6 @@ I am currently working on my PhD thesis under the tutelage of [Professor Kristia
 
 I received a Master's degree in Security Studies at UCL, a Master's degree in Ethnicity and Multiculturalism from Univeristy of Bristol. I worked as a strategy associate at the Diplomatic Protocol Service Center, Ministry of Foreign Affairs in Beijing between 2016 and 2018. 
 
-Here is a copy of my [CV]() which contains detailed information on my research interets, technical skills,.
-
 # Research
 ## Working papers
 - Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. 
@@ -32,3 +30,5 @@ Here is a copy of my [CV]() which contains detailed information on my research i
 
 # Data 
 The Soft and Hard Targets in Protest Violence
+
+# Something about Me 🤔
