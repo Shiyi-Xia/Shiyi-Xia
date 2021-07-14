@@ -28,7 +28,7 @@ Favourite quotes:
 - Xia.S.(2017). Social Responsibility as a Diplomat. _Zhongxin Qingnian_.(1):76-77.
 
 # Working and Research Experience
-- RA for [Dr. Florian Ken](https://sites.google.com/site/floriangkern/) and [Dr. Martin Steinwand](https://sites.google.com/site/martincsteinwand):How do Constituents Influence International Politics in Kenya, Tanzania and Uganda?. Jun, 2021 -
+- RA for [Dr. Florian Ken](https://sites.google.com/site/floriangkern/) and [Dr. Martin Steinwand](https://sites.google.com/site/martincsteinwand): How do Constituents Influence International Politics in Kenya, Tanzania and Uganda?. Jun, 2021 -
 
 - RA for [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Uptake of Public Health Practices For Prevention of COVID 19 among Refugees, Pastoral Communities, Truck Drivers and Slum Dwellers in Uganda. Jun, 2021 -
 
