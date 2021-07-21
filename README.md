@@ -36,9 +36,6 @@ Favourite quotes:
 
 - Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2018 - August 2019
 
-# Teaching 
-- Teaching Assistant. *Introduction to Quantitative Methods in R* at Essex Data Science Summer School
-
 # Data 
 The Soft and Hard Targets in Protest Violence
 
