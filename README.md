@@ -11,7 +11,8 @@ I received a Master's degree in Security Studies at UCL, a Master's degree in Et
 
 Favourite quotes:
 > All models are wrong, but some are useful.\
->  Discovering the unexpected is more important than confirming the known.
+> Discovering the unexpected is more important than confirming the known. \
+> Data are not just numbers, they are numbers with a context.
 
 # Research
 ## Working papers
