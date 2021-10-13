@@ -29,6 +29,10 @@ Favourite quotes:
 - Xia.S.(2017). Social Responsibility as a Diplomat. _Zhongxin Qingnian_.(1):76-77.
 
 # Working and Research Experience
+- GTA at the Department of Government, UoE \
+  GV211 Violent Non State Actors (Spring, 2022) \
+  GV317 Corruption (Spring, 2022).
+  
 - Seniot PGTA at the [Q-Step Centre, UCL](https://www.ucl.ac.uk/q-step/). \
   Data Analysis (Fall, 2021) \
   Introduction to Quantitative Research Methods (Spring, 2022).
