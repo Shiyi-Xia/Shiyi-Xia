@@ -18,6 +18,8 @@ Favourite quotes:
 ## Working papers
 - Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. 
 - Xia.S.(2021). The Logic of Protest Violence Target Selection.
+- Liao.Y, et al (2021). Factionalism within the Cultural Revolution: the Ideal Point Estimation Using Text Data.
+- Liao.Y, and Xia, S.(2022). Measuring Party Officials in the Cultural Revolution: An Application of Machine Learning Approach.
 
 ## Work in progress
 - Xia,S.(2021). Spatial Diffusion of Democratic Protests.
