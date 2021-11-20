@@ -30,6 +30,8 @@ Favourite quotes:
 
 # Working and Research Experience
 - GTA at the Department of Government, UoE \
+  GV900 Political Explanation (Fall, 2021) \
+  GV903 Advanced Research Methods (Fall, 2021) \
   GV211 Violent Non State Actors (Spring, 2022) \
   GV317 Corruption (Spring, 2022).
   
