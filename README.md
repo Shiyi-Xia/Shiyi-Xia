@@ -45,7 +45,7 @@ Favourite quotes:
 
 - Editorial Board Member at *International Public Policy Review*, UCL. [Sep, 2019 - Sep, 2020.](https://www.ucl.ac.uk/global-governance/news/2019/sep/latest-issue-ippr-journal-2019-now-out)
 
-- Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2018 - August 2019.
+- Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2016 - August 2018.
 
 # Data 
 The Soft and Hard Targets in Protest Violence
