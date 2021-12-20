@@ -48,7 +48,8 @@ Favourite quotes:
 - Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2016 - August 2018.
 
 # Data 
-The Soft and Hard Targets in Protest Violence
+The Soft and Hard Targets in Protest Violence \
+UN General Debate and Speech Corpus
 
 # Something Non-academic about Me 🤔
 I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \
