@@ -23,7 +23,7 @@ Favourite quotes:
 - Xia,S.(2021). Spatial Diffusion of Democratic Protests.
 
 ## Publication
-- Xia.S.(2018). The Belt and Road Initiative, and Marshall Plan: A Comparative Perspective._China Market_.(2):106-107.
+- Xia.S.(2018). The Belt and Road Initiative, and Marshall Plan: A Comparative Perspective. _China Market_.(2):106-107.
 
 ## Media
 - Xia.S.(2017). Social Responsibility as a Diplomat. _Zhongxin Qingnian_.(1):76-77.
