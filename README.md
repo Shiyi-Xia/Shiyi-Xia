@@ -1,9 +1,7 @@
 ## Shiyi (Winnie) Xia
 Shiyi.xia@essex.ac.uk
 
-Welcome to my Homepage 😉 ~ 
-
-[<imp align = "left"| width = "22px" src = (https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg) />](https://twitter.com/winnie21879386) 
+Welcome to my Homepage 😉 ~ [![Tweet](https://img.shields.io/twitter/url/https/github.com/tterb/hyde.svg?style=social)](https://twitter.com/winnie21879386) 
 
 I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts, protest violence, foreign aid and post-conflict reconstruction. I am also interested in quantitative research methods, spatial econometrics, and data visulization.   
 
