@@ -37,7 +37,8 @@ Favourite quotes:
   
 - Senior PGTA at the [Q-Step Centre, UCL](https://www.ucl.ac.uk/q-step/). \
   Data Analysis (Fall, 2021) \
-  Introduction to Quantitative Research Methods (Spring, 2022).
+  Introduction to Quantitative Research Methods (Spring, 2022). \
+  Data Analysis (Fall, 2022)
 
 - RA for [Dr. Florian Ken](https://sites.google.com/site/floriangkern/) and [Dr. Martin Steinwand](https://sites.google.com/site/martincsteinwand): How do Constituents Influence International Politics in Kenya, Tanzania and Uganda?. Jun, 2021 - Sep, 2021.
 
