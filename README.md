@@ -29,13 +29,13 @@ Favourite quotes:
 - Xia.S.(2017). Social Responsibility as a Diplomat. _Zhongxin Qingnian_.(1):76-77.
 
 # Working and Research Experience
-- Instructor at the [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com).
-  [3X: Introduction to R](https://raw.githack.com/Shiyi-Xia/ESS_3x_website/main/_site/index.html) (2022).
+- Instructor at the [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com). \
+  [3X: Introduction to R](https://raw.githack.com/Shiyi-Xia/ESS_3x_website/main/_site/index.html) (2022). 
 
 - GTA at the Department of Government, UoE \
   GV900 Political Explanation (Fall, 2021) \
   GV903 Advanced Research Methods (Fall, 2021) \
-  GV211 Violent Non State Actors (Spring, 2022) \
+  GV211 Violent Non-State Actors (Spring, 2022) \
   GV317 Corruption (Spring, 2022).
   
 - Senior PGTA at the [Q-Step Centre, UCL](https://www.ucl.ac.uk/q-step/). \
@@ -43,7 +43,7 @@ Favourite quotes:
   Introduction to Quantitative Research Methods (Spring, 2022). \
   Data Analysis (Fall, 2022)
 
-- RA for [Dr. Sara Polo](https://www.essex.ac.uk/people/polos77609/sara-polo), [Professor Ismene Gizelis](https://www.essex.ac.uk/people/gizel22009/ismene-gizelis) and [Dr. Brian Phillips](https://www.essex.ac.uk/people/phill66908/brian-phillips):Extreme Violence against Women. Jun, 2022 - Jul 2022.
+- RA for [Dr. Sara Polo](https://www.essex.ac.uk/people/polos77609/sara-polo), [Professor Ismene Gizelis](https://www.essex.ac.uk/people/gizel22009/ismene-gizelis) and [Dr. Brian Phillips](https://www.essex.ac.uk/people/phill66908/brian-phillips): Extreme Violence against Women. Jun, 2022 - Jul 2022.
  
 - RA for [Dr. Florian Ken](https://sites.google.com/site/floriangkern/) and [Dr. Martin Steinwand](https://sites.google.com/site/martincsteinwand): How do Constituents Influence International Politics in Kenya, Tanzania and Uganda?. Jun, 2021 - Sep, 2021.
 
