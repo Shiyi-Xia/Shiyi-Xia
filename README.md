@@ -31,6 +31,10 @@ Favourite quotes:
 # Working and Research Experience
 - Instructor at the [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com). \
   [3X: Introduction to R](https://raw.githack.com/Shiyi-Xia/ESS_3x_website/main/_site/index.html) (2022). 
+  
+- TA at the [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com). \
+  [1L:Web Scraping and Data Management for Social Scientists](https://essexsummerschool.com/summer-school-facts/courses/ess-2022-course-list/1l/) (2022) \
+  [3M:Advanced Methods for Text as Data: Natural Language Processing](https://essexsummerschool.com/summer-school-facts/courses/ess-2022-course-list/3m-advanced-methods-for-text-as-data-natural-language-processing/) (2022).
 
 - GTA at the Department of Government, UoE \
   GV900 Political Explanation (Fall, 2021) \
