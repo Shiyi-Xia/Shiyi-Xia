@@ -17,7 +17,7 @@ Favourite quotes:
 # Research
 ## Working papers
 - Xia,S.(2021). State Repressive Reaction and Protest Violence Target Selection. 
-- Xia.S.(2021). The Logic of Protest Violence Target Selection.
+- Xia.S.(2021). Formal Organizational Infrastructure and the Protest Violence.
 
 ## Work in progress
 - Xia,S.(2021). Spatial Diffusion of Democratic Protests.
