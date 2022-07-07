@@ -3,7 +3,7 @@ Shiyi.xia@essex.ac.uk
 
 Welcome to my Homepage 😉 ~ [![Twitter URL](https://img.shields.io/twitter/follow/winniexia1001?style=social)](https://twitter.com/winniexia1001)
 
-I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts and protest violence. I am also interested in quantitative research methods, spatial econometrics, text-as-data, and data visulization.   
+I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). My research focuses on state's reaction to nonviolent conflicts and protest violence. I am also interested in quantitative research methods, namely spatial econometrics, text-as-data, and data visulization.   
 
 I am currently working on my PhD thesis under the tutelage of [Professor Kristian Gledistch](https://scholar.google.co.uk/citations?hl=en&user=1BbBGWAAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Sara Polo](https://scholar.google.co.uk/citations?hl=en&user=Awc_N94AAAAJ).
 
