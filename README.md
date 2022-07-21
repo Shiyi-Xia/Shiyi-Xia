@@ -66,6 +66,6 @@ UN General Debate and Speech Corpus
 
                            
 # Something Non-academic about Me 🤔
-I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️🍻🍹. \
+I love 🍓🍒🥭🥝🥑;🍱🥗🥪;☕️. \
 You can say that I am good at 🧗‍♀️🎤🏹🥊🏂.
 
