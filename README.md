@@ -47,6 +47,8 @@ Favourite quotes:
   Introduction to Quantitative Research Methods (Spring, 2022). \
   Data Analysis (Fall, 2022)
 
+- RA for [Dr. Dr Zorzeta Bakaki](https://www.essex.ac.uk/people/bakak27506/zorzeta-bakaki) and [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Researching Political Trust in Challenging Places. Sep, 2022.
+
 - RA for [Dr. Sara Polo](https://www.essex.ac.uk/people/polos77609/sara-polo), [Professor Ismene Gizelis](https://www.essex.ac.uk/people/gizel22009/ismene-gizelis) and [Dr. Brian Phillips](https://www.essex.ac.uk/people/phill66908/brian-phillips): Extreme Violence against Women. Jun, 2022 - Jul 2022.
  
 - RA for [Dr. Florian Ken](https://sites.google.com/site/floriangkern/) and [Dr. Martin Steinwand](https://sites.google.com/site/martincsteinwand): How do Constituents Influence International Politics in Kenya, Tanzania and Uganda?. Jun, 2021 - Sep, 2021.
@@ -56,6 +58,10 @@ Favourite quotes:
 - Editorial Board Member at *International Public Policy Review*, UCL. [Sep, 2019 - Sep, 2020.](https://www.ucl.ac.uk/global-governance/news/2019/sep/latest-issue-ippr-journal-2019-now-out)
 
 - Strategy Associate, at Diplomatic Protocol Service Center, Ministry of Foreign Affairs, China. August 2016 - August 2018.
+
+# Service to the Profession
+- Academic event organisaion
+Workshop: Researching Political Trust in Challenging Places, at the University of Essex, 28 September, 2022.
 
 # Data 
 The Soft and Hard Targets in Protest Violence \
