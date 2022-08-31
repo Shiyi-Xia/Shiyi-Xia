@@ -47,7 +47,7 @@ Favourite quotes:
   Introduction to Quantitative Research Methods (Spring, 2022). \
   Data Analysis (Fall, 2022)
 
-- RA for [Dr. Dr Zorzeta Bakaki](https://www.essex.ac.uk/people/bakak27506/zorzeta-bakaki) and [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Researching Political Trust in Challenging Places. Sep, 2022.
+- RA for [Dr. Zorzeta Bakaki](https://www.essex.ac.uk/people/bakak27506/zorzeta-bakaki) and [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Researching Political Trust in Challenging Places. Sep, 2022.
 
 - RA for [Dr. Sara Polo](https://www.essex.ac.uk/people/polos77609/sara-polo), [Professor Ismene Gizelis](https://www.essex.ac.uk/people/gizel22009/ismene-gizelis) and [Dr. Brian Phillips](https://www.essex.ac.uk/people/phill66908/brian-phillips): Extreme Violence against Women. Jun, 2022 - Jul 2022.
  
