@@ -41,7 +41,7 @@ Favourite quotes:
   GV903 Advanced Research Methods (Fall, 2021) \
   GV211 Violent Non-State Actors (Spring, 2022) \
   GV317 Corruption (Spring, 2022 - 23 ) \
-  GV217 Conflict Analysis (Fall, 2022) \
+  GV217 Conflict Analysis (Fall, 2022)
   
 - Senior PGTA at the [Q-Step Centre, UCL](https://www.ucl.ac.uk/q-step/). \
   Data Analysis: (Fall, 2021 - 2022) \
