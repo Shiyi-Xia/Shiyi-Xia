@@ -38,13 +38,13 @@ Favourite quotes:
 
 - GTA at the Department of Government, UoE \
   GV900 Political Explanation (2021 - 23) \
-  GV903 Advanced Research Methods (Fall, 2021) \
+  GV903 Advanced Research Methods (2021 - 22) \
   GV211 Violent Non-State Actors (Spring, 2022) \
   GV317 Corruption (Spring, 2022 - 23 ) \
   GV217 Conflict Analysis (Fall, 2022)
   
 - Senior PGTA at the [Q-Step Centre, UCL](https://www.ucl.ac.uk/q-step/). \
-  Data Analysis: (Fall, 2021 - 2022) \
+  Data Analysis: (Fall, 2021 - 22) \
   Introduction to Quantitative Research Methods (Spring, 2022). 
 
 - RA for [Dr. Zorzeta Bakaki](https://www.essex.ac.uk/people/bakak27506/zorzeta-bakaki) and [Professor Han Dorussen](https://scholar.google.com/citations?user=_GTQ1LcAAAAJ&hl=en): Researching Political Trust in Challenging Places. Sep, 2022.
